@@ -1,0 +1,490 @@
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EditEmployee.resources
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.dll
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.xml
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePanel.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.DemandLeave.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewLeave.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminNotifications.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeeLeaves.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.RateEmployee.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePenalties.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewPenalty.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminNotifications.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.DemandLeave.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EditEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeeLeaves.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePanel.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePenalties.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewLeave.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewPenalty.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.RateEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet c#\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\SIM-Info\Downloads\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\SIM-Info\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\User\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\User\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.pdb
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\bin\Debug\Human Resource Management.pdb
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\bin\Debug\itextsharp.dll
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\bin\Debug\itextsharp.xml
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human Resource Management.exe
+D:\RAYEN BHZ\Project\projet1\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\souhaib\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Settings.resources
+C:\Users\Gasri\Desktop\projet1\Human Resource Management\obj\Debug\Human_Resource_Management.Settings.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.Settings.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet11\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Settings.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\user\Desktop\projet12\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\user\Desktop\projet12\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\user\Desktop\projet12\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\user\Desktop\projet12\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Settings.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\user\Desktop\projet12\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.addconcepteur.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.architect.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Concepteur.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editarch.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editclient.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editconcepteur.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.editprojet.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client2.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.client5.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.hypothese.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.instanse.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.livraison.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.livraisonprojet.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.prix.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projet1.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.projetetude.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.Settings.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.soldinst.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.suietude.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human_Resource_Management.suivi.resources
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\user\Desktop\tout les dossiers\projet12\Human Resource Management\obj\Debug\Human Resource Management.pdb

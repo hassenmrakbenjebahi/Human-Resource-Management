@@ -1,0 +1,79 @@
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EditEmployee.resources
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.dll
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.xml
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePanel.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.DemandLeave.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewLeave.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminNotifications.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeeLeaves.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.RateEmployee.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePenalties.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewPenalty.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminNotifications.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.DemandLeave.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EditEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeeLeaves.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePanel.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePenalties.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewLeave.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.NewPenalty.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.RateEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.dll
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\bin\Debug\itextsharp.xml
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AdminNotifications.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.DemandLeave.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.EditEmployee.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeeLeaves.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePanel.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.EmployeePenalties.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.NewLeave.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.NewPenalty.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.RateEmployee.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.Reports.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.csproj.CopyComplete
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human Resource Management.pdb
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.client.resources
+C:\Users\Gasri\Desktop\Application de gestion d'architect\Human Resource Management\obj\Debug\Human_Resource_Management.projet.resources

@@ -1,0 +1,38 @@
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+E:\Projects\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csprojAssemblyReference.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+E:\Projects\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+C:\Users\User\Desktop\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe.config
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.exe
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\bin\Debug\Human Resource Management.pdb
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csprojResolveAssemblyReference.cache
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AddEmployee.resources
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.AdminPanel.resources
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Employees.resources
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.login.resources
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human_Resource_Management.Properties.Resources.resources
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.GenerateResource.Cache
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.csproj.CoreCompileInputs.cache
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.exe
+D:\work\Work freelance\Human Resource Management\Human Resource Management\Human Resource Management\obj\Debug\Human Resource Management.pdb
